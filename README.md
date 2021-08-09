@@ -6,9 +6,11 @@ Socket Programming Assignments given in Computer Networks Class
 6th Semester - IIT Bhubaneswar
 
 ---
-### Instructor : [Dr. Hemant Rath](https://www.ee.iitb.ac.in/course/~hemantr/)
+### Instructor:- [Dr. Hemant Rath](https://www.ee.iitb.ac.in/course/~hemantr/)
 
-### Questions
+
+
+### Questions:-
 	1. Create a day-time-server client to find out the time from a day-time server.
 	
 	2. Write a client/server pair using TCP sockets. Client should pass on some message to the server, whereas the server should receive the message from the client and print the message in the screen.
